@@ -1,4 +1,3 @@
-[readme.md](https://github.com/user-attachments/files/35329568/readme.md)
 # Đánh giá hạn hán từ ảnh vệ tinh sử dụng NDVI và Nhiệt độ bề mặt (TVDI)
 
 Đồ án Chuyên ngành Tin học Môi trường — Khoa Công nghệ Thông tin, Trường Đại học Tài nguyên và Môi trường Thành phố Hồ Chí Minh (HCMUNRE).
