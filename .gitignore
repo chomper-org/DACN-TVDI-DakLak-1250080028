@@ -1,0 +1,14 @@
+# Bỏ qua ảnh vệ tinh GeoTIFF dung lượng lớn (lưu trên Google Drive kèm link trong README)
+*.tif
+*.tiff
+*.tif.aux.xml
+
+# Bỏ qua file tạm của Python, Windows và Word
+__pycache__/
+*.pyc
+.venv/
+venv/
+~$*.docx
+~$*.pptx
+Thumbs.db
+.DS_Store

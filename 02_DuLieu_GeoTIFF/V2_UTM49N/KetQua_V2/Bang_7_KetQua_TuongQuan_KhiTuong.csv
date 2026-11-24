@@ -1,0 +1,7 @@
+﻿Chi_So_TVDI,Bien_Khi_Tuong,So_Mau_n,Pearson_r,R2,p_value
+TVDI_BienRieng,Lượng mưa mùa khô CHIRPS (mm),30,-0.4571,0.2089,1.1102e-02
+TVDI_BienRieng,Nhiệt độ không khí 2m ERA5 (°C),30,0.6382,0.4073,1.4791e-04
+TVDI_BienRieng,Độ ẩm đất lớp mặt ERA5 (m³/m³),30,-0.0304,0.0009,8.7344e-01
+TVDI_BienGop,Lượng mưa mùa khô CHIRPS (mm),30,-0.6889,0.4746,2.5607e-05
+TVDI_BienGop,Nhiệt độ không khí 2m ERA5 (°C),30,0.6608,0.4367,7.0479e-05
+TVDI_BienGop,Độ ẩm đất lớp mặt ERA5 (m³/m³),30,-0.0894,0.008,6.3837e-01
